@@ -41,6 +41,171 @@
                     "start_time": "2020-10-29 02:18:58"
                 }
             ]
+        },
+        {
+            "name": "main.py - Codes - Visual Studio Code",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:12:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 13:12:09"
+                },
+                {
+                    "days": -1,
+                    "end_time": "2020-10-29 13:42:44",
+                    "hours": -1,
+                    "minutes": 59,
+                    "seconds": 59,
+                    "start_time": "2020-10-29 13:42:40"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf Screentime1.py - Codes - Visual Studio Code",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:12:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 13:12:11"
+                },
+                {
+                    "days": -1,
+                    "end_time": "2020-10-29 13:12:18",
+                    "hours": -1,
+                    "minutes": 59,
+                    "seconds": 59,
+                    "start_time": "2020-10-29 13:12:15"
+                }
+            ]
+        },
+        {
+            "name": "main.json - Codes - Visual Studio Code",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:12:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 13:12:13"
+                },
+                {
+                    "days": -1,
+                    "end_time": "2020-10-29 13:12:18",
+                    "hours": -1,
+                    "minutes": 59,
+                    "seconds": 59,
+                    "start_time": "2020-10-29 13:12:15"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - Codes - Visual Studio Code",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:12:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 13:12:15"
+                }
+            ]
+        },
+        {
+            "name": "Script1.py - Codes - Visual Studio Code",
+            "time_entry": [
+                {
+                    "days": -1,
+                    "end_time": "2020-10-29 13:12:18",
+                    "hours": -1,
+                    "minutes": 59,
+                    "seconds": 59,
+                    "start_time": "2020-10-29 13:12:15"
+                }
+            ]
+        },
+        {
+            "name": "Command Prompt",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:42:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 13:42:34"
+                }
+            ]
+        },
+        {
+            "name": "Module win32gui - Google Chrome",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:42:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 13:42:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:42:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-10-29 13:42:40"
+                },
+                {
+                    "days": -1,
+                    "end_time": "2020-10-29 13:42:44",
+                    "hours": -1,
+                    "minutes": 59,
+                    "seconds": 59,
+                    "start_time": "2020-10-29 13:42:40"
+                }
+            ]
+        },
+        {
+            "name": "Programming Scribbling \u200e- OneNote for Windows 10",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 13:42:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 13:42:38"
+                },
+                {
+                    "days": -1,
+                    "end_time": "2020-10-29 13:42:44",
+                    "hours": -1,
+                    "minutes": 59,
+                    "seconds": 59,
+                    "start_time": "2020-10-29 13:42:40"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entry": [
+                {
+                    "days": -1,
+                    "end_time": "2020-10-29 13:42:44",
+                    "hours": -1,
+                    "minutes": 59,
+                    "seconds": 59,
+                    "start_time": "2020-10-29 13:42:40"
+                }
+            ]
         }
     ]
 }
