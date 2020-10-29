@@ -1,0 +1,46 @@
+{
+    "activities": [
+        {
+            "name": "Screentime1.py - Codes - Visual Studio Code",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 02:18:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 02:18:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 02:18:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 02:18:56"
+                }
+            ]
+        },
+        {
+            "name": "Screentime.py - Codes - Visual Studio Code",
+            "time_entry": [
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 02:18:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2020-10-29 02:18:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-10-29 02:19:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-10-29 02:18:58"
+                }
+            ]
+        }
+    ]
+}
